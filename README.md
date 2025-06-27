@@ -1,4 +1,4 @@
-Как запускать:
+Запускаем через терминал:
 1. python -m http.server 8000
 2. python proxy.py
 
